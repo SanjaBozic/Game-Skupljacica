@@ -3,7 +3,7 @@
 ## Game for small children,
 ### Made in UPBGE
 
-Game in which you small children learn how to recognize fruit and put them in small baskets.
+Game in which small children learn how to recognize fruit and put them in small baskets.
 First level contains pears and apples, and some other fruit. The goal is to put the right
 fruit into the correct basket without trying to pick the wrong fruit. The second level 
 contains oranges and cherries. 

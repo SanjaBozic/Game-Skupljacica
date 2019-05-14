@@ -1,7 +1,7 @@
 # Skupljacica
 
 ## Game for small children,
-### Made in UPBGE
+### Made in UPBGE 0.2.3
 
 Game in which small children learn how to recognize fruit and put them in small baskets.
 First level contains pears and apples, and some other fruit. The goal is to put the right
